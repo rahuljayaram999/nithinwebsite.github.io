@@ -1,0 +1,27 @@
+table,th,td,tr{
+    border:1px solid rgb(236, 0, 0);
+  }
+  table{
+    width:100%;
+  }
+  
+  #food{
+    color:red;
+  }
+
+  .edu{
+      color:green;
+  }
+  
+  p{
+    color:purple;
+    font-size:18px;
+  }
+  body{
+    background-color: rgb(254, 255, 187);;
+  }
+
+  #user{
+      border-radius: 50%;
+  }
+  
